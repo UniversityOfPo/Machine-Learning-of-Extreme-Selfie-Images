@@ -1,5 +1,5 @@
 # Machine-Learning-of-Extreme-Selfie-Images
-Bagging Techniques
+
 Most individuals, especially young people, are obsessed
 with taking and sharing selfies online. In the age of TikTok,
 Facebook, and Instagram, people earn money with exceptional
